@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name='ldaplogin-iitmandi',
+    name='ldap-iitmandi',
     version='1.0',
     author="Abhi Nandan",
     author_email="nandan645@protonmail.com",
