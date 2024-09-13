@@ -14,7 +14,7 @@
 Install the package via pip:
 
 ```bash
-pip install ldaplogin-iitmandi
+pip install ldap-iitmandi
 ```
 
 ## Setup and Usage
