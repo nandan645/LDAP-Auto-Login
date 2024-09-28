@@ -30,6 +30,7 @@ setup(
         'httpx',
         'beautifulsoup4',
         'keyring',
+	'keyrings.alt',
     ],
 
 )
